@@ -97,8 +97,8 @@
 
 ## 📈 Mes Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahNezami&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNezami&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=radical)
 
 ---
 

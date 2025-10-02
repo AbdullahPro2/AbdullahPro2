@@ -42,11 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&count_private=true&theme=merko)
-
-## 📈 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=donut-vertical&theme=merko)](https://github.com/AbdullahPro2/github-readme-stats)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&count_private=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=donut-vertical&theme=merko)](https://github.com/AbdullahPro2/github-readme-stats)
 
 ---
 

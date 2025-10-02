@@ -46,7 +46,7 @@
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&exclude_repo=someRepo&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=donut-vertical)](https://github.com/AbdullahPro2/github-readme-stats)
 
 ---
 

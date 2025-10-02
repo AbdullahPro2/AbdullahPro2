@@ -103,11 +103,9 @@
 ---
 
 ## 📞 Contact
-- 📧 **Email:** [ton-email@domain.com]
 - 💼 **LinkedIn:** [linkedin.com/in/abdullah-nezami]
 - 🐙 **GitHub:** [github.com/AbdullahNezami]
 - 📍 **Localisation:** Strasbourg, France
-
 ---
 
 ⭐ *N'hésitez pas à explorer mes repositories et à me contacter pour toute opportunité !*

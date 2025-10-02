@@ -40,11 +40,13 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 📈 Mes Statistiques GitHub
+## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko)](https://github.com/AbdullahPro2/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2)](https://github.com/AbdullahPro2/github-readme-stats)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=radical)
 
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=radical)
 ---
 
 ## 📞 Contact

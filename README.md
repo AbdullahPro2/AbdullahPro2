@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&exclude_repo=someRepo&layout=compact&theme=radical)
 
 ## 📈 Top Languages
 

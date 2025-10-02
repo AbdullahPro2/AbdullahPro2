@@ -42,11 +42,12 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&exclude_repo=someRepo&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&exclude_repo=someRepo&layout=compact&theme=radical)
+
 ---
 
 ## 📞 Contact

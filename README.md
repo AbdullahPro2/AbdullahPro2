@@ -47,7 +47,7 @@
 ---
 
 ## 📞 Contact
-- 💼 **LinkedIn:** [Abdullah Nezami][https://www.linkedin.com/in/abdulllahnezami/]
+- 💼 **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
 - 📍 **Localisation:** Strasbourg, France
 ---
 

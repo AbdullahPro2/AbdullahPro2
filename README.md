@@ -1,5 +1,5 @@
 # Abdullah Nezami  
-**Développeur Stagiaire | Étudiant en BUT Informatique**
+**Développeur Stagiaire | Étudiant en BUT Informatique | Université de Strasbourg**
 
 ---
 
@@ -48,6 +48,7 @@
 
 ## 📞 Contact
 - 💼 **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
+- 📧 **Email:** [Envoyez-moi un emai](mailto:abdullah.nezami@etu.unistra.fr)
 - 📍 **Localisation:** Strasbourg, France
 ---
 

@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍🎓 Profil
-Étudiant passionné en **2ème année de BUT Informatique** à l'IUT Robert Schumann, je recherche un **stage de 10 semaines** à partir du **15 avril 2025**. Curieux, rigoureux et motivé, je souhaite contribuer à des projets innovants tout en développant mes compétences techniques et professionnelles.
+Étudiant en **2ème année de BUT Informatique** à l'IUT Robert Schumann, je recherche un **stage de 10 semaines** à partir du **15 avril 2025**.
 
 ---
 

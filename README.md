@@ -4,10 +4,10 @@
 ---
 
 ## Profil
-Étudiant en 2ème année de BUT Informatique à l’IUT Robert Schumann. Je cherche un stage de 10 semaines à partir du 15 avril 2025.
-J’aime tout ce qui touche à la conception et la réalisation d’applications: web, mobile ou logicielle.
-Je m’intéresse aussi au développement bas niveau, à la programmation système et au langage assembleur.
----
+
+Étudiant en 2ème année de BUT Informatique à l’IUT Robert Schumann. Je cherche un stage de 10 semaines à partir du 15 avril 2025.  
+J’aime tout ce qui touche à la conception et la réalisation d’applications : web, mobile ou logicielle. Je m’intéresse aussi au développement bas niveau, à la programmation système et au langage assembleur.
+
 
 ## Compétences Techniques
 

@@ -1,16 +1,16 @@
-# 🚀 Abdullah Nezami  
-**💻 Développeur Stagiaire | Étudiant en BUT Informatique**
+# Abdullah Nezami  
+**Développeur Stagiaire | Étudiant en BUT Informatique**
 
 ---
 
-## 👨‍🎓 Profil
+## Profil
 Étudiant en **2ème année de BUT Informatique** à l'IUT Robert Schumann, je recherche un **stage de 10 semaines** à partir du **15 avril 2025**.
 
 ---
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 
-### 💾 Langages de Programmation
+### Langages de Programmation
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

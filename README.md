@@ -47,8 +47,7 @@
 ---
 
 ## 📞 Contact
-- 💼 **LinkedIn:** [linkedin.com/in/abdullah-nezami]
-- 🐙 **GitHub:** [github.com/AbdullahNezami]
+- 💼 **LinkedIn:** ![https://www.linkedin.com/in/abdulllahnezami/]
 - 📍 **Localisation:** Strasbourg, France
 ---
 

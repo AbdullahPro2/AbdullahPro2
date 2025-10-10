@@ -1,4 +1,4 @@
-<table align="right">
+<table align="right" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 
 
 # Abdullah Nezami  

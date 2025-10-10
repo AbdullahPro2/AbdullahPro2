@@ -1,10 +1,6 @@
 <p align="right" style="margin: 0;">
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none; color: black; font-weight: bold; display: inline-flex; align-items: center; gap: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30" style="display: block;">
-    <span>French Version</span>
-  </a>
+🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none; color: black; font-weight: bold; display: inline-flex; align-items: center; gap: 5px;"> French Verison   </a>
 </p>
-🇫🇷 French Verison
 
 
 # Abdullah Nezami  

@@ -1,8 +1,4 @@
-<p align="right" style="margin: 0; font-size: 50px;">
-🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md"> French Verison   </a>
-</p>
 
-** [French Verison 🇫🇷](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md) **
 [<svg xmlns="http://www.w3.org/2000/svg" width="120" height="35">
   <rect rx="18" ry="18" width="120" height="35" fill="#ED2939"/>
   <rect rx="18" ry="18" width="40" height="35" fill="#0055A4"/>

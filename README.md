@@ -1,4 +1,4 @@
-<p align="right" style="margin: 0; font-size: 5px;">
+<p align="right" style="margin: 0; font-size: 50px;">
 🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md"> French Verison   </a>
 </p>
 

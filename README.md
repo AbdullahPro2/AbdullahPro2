@@ -1,5 +1,5 @@
-<p align="right" style="margin: 0;">
-🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none; color: black; font-weight: bold; display: inline-flex; align-items: center; gap: 5px;"> French Verison   </a>
+<p align="right" style="margin: 0; font-size: 5px;">
+🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md"> French Verison   </a>
 </p>
 
 

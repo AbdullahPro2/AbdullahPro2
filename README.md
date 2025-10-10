@@ -1,6 +1,5 @@
 <p align="right">
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none;">🇫🇷 French</a> | 
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md" style="text-decoration: none;">🇬🇧 English</a>
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none;">🇫🇷 French Version</a>
 </p>
 
 # Abdullah Nezami  

@@ -1,11 +1,7 @@
-<p align="center">
+<p align="Right">
   <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="EN" height="30">
-  </a>
+  </a> French Version
 </p>
 
 

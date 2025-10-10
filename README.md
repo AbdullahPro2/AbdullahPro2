@@ -1,11 +1,11 @@
 <table align="right" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
+  <tr  border="0" cellspacing="0" cellpadding="0">
+    <td  border="0" cellspacing="0" cellpadding="0">
       <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
         <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30">
       </a>
     </td>
-    <td>
+    <td  border="0" cellspacing="0" cellpadding="0">
       <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none; color: black; font-weight: bold;">
         French Version
       </a>

@@ -3,7 +3,12 @@
 </p>
 
 ** [French Verison 🇫🇷](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md) **
-
+[<svg xmlns="http://www.w3.org/2000/svg" width="120" height="35">
+  <rect rx="18" ry="18" width="120" height="35" fill="#ED2939"/>
+  <rect rx="18" ry="18" width="40" height="35" fill="#0055A4"/>
+  <rect rx="18" ry="18" x="80" width="40" height="35" fill="#FFF"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">French Version</text>
+</svg>](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
 
 # Abdullah Nezami  
 **Intern Developer | Computer Science Student (BUT Informatique) | University of Strasbourg**

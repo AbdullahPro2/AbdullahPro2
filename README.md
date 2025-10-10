@@ -1,5 +1,16 @@
 <p align="right">
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/main/README.md">🇫🇷 French Version </a>
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/main/README.md" style="
+    display: inline-block;
+    text-decoration: none;
+    background-color: #2E8B57;
+    color: white;
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+  ">
+    🇬🇧 English | 🇫🇷 Français
+  </a>
 </p>
 
 # Abdullah Nezami  

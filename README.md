@@ -41,14 +41,17 @@ J’aime tout ce qui touche à la conception et la réalisation d’applications
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko&include_all_commits=true" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPro2&theme=merko" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko&include_all_commits=true" height="150" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPro2&theme=merko" height="150" alt="Streak"/>
 </p>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/>
+</p>
+
+
 
 ---
 

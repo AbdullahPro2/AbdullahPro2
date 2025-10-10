@@ -1,9 +1,15 @@
 
-[<svg xmlns="http://www.w3.org/2000/svg" width="120" height="35">
-  <rect rx="18" ry="18" width="120" height="35" fill="#ED2939"/>
-  <rect rx="18" ry="18" width="40" height="35" fill="#0055A4"/>
-  <rect rx="18" ry="18" x="80" width="40" height="35" fill="#FFF"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">French Version</text>
+[<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
+  <!-- Button background -->
+  <rect width="140" height="40" rx="20" ry="20" fill="#F36F25"/>
+  
+  <!-- French flag -->
+  <rect x="0" y="0" width="40" height="40" fill="#0055A4"/>
+  <rect x="40" y="0" width="40" height="40" fill="#FFF"/>
+  <rect x="80" y="0" width="40" height="40" fill="#ED2939"/>
+  
+  <!-- Button text -->
+  <text x="115" y="25" font-family="Arial" font-size="14" fill="white" font-weight="bold" text-anchor="end">FR</text>
 </svg>](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
 
 # Abdullah Nezami  

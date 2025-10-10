@@ -1,5 +1,8 @@
 [![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
 
+<p align="right">
+  [![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/main/README.md)
+</p>
 
 # Abdullah Nezami  
 **Intern Developer | Computer Science Student (BUT Informatique) | University of Strasbourg**

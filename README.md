@@ -3,7 +3,7 @@
 </p>
 
 # Abdullah Nezami  
-**Développeur Stagiaire | Étudiant en BUT Informatique | Université de Strasbourg**
+**Développeur full stack | Étudiant en BUT Informatique | Université de Strasbourg**
 
 ---
 

@@ -4,7 +4,7 @@
     <span>French Version</span>
   </a>
 </p>
-
+🇫🇷 French Verison
 
 
 # Abdullah Nezami  

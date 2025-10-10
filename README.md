@@ -9,7 +9,7 @@
 
 ## Profile
 
-Second-year Computer Science student at IUT Robert Schumann. I’m looking for a 10-week internship starting from April 15, 2025.  
+Second-year Computer Science student at IUT Robert Schuman. I’m looking for a 10-week internship starting from April 15, 2025.  
 I enjoy everything related to the design and development of applications — web, mobile, or software. I’m also interested in low-level development, system programming, and assembly language.
 
 ## Technical Skills

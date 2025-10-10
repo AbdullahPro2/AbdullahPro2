@@ -43,8 +43,11 @@ J’aime tout ce qui touche à la conception et la réalisation d’applications
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPro2&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko&include_all_commits=true" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPro2&theme=merko" alt="Streak"/>
+</p>
+
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko)
 
 ---

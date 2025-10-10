@@ -56,7 +56,7 @@ I enjoy everything related to the design and development of applications — web
 
 ---
 
-## 📞 Contact
+## Contact
 - 💼 **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
 - 📧 **Email:** [Write to me](mailto:abdullah.nezami@etu.unistra.fr)
 - 📍 **Location:** Strasbourg, France

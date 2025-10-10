@@ -1,8 +1,12 @@
-<a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="25">
-</a>
-# 🇬🇧 [![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md)
-
+<p align="center">
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="EN" height="30">
+  </a>
+</p>
 
 
 # Abdullah Nezami  

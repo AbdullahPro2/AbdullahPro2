@@ -59,7 +59,7 @@
 ---
 
 
-## 📞 Contact
+##  Contact
 - 💼 **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
 - 📧 **Email:** [Écrivez-moi](mailto:abdullah.nezami@etu.unistra.fr)
 - 📍 **Localisation:** Strasbourg, France

@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md" style="text-decoration: none;">🇬🇧 English Version</a>
+</p>
+
 # Abdullah Nezami  
 **Développeur Stagiaire | Étudiant en BUT Informatique | Université de Strasbourg**
 

@@ -1,6 +1,9 @@
 <p align="right" style="margin: 0; font-size: 50px;">
 🇫🇷 <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md"> French Verison   </a>
+  **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
 </p>
+
+**French Verison:** [🇫🇷](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
 
 
 # Abdullah Nezami  

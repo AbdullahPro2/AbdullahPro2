@@ -1,29 +1,7 @@
 <p align="right">
-[<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
-  <rect width="140" height="40" rx="20" ry="20" fill="#0052B4"/>
-  <rect x="0" y="0" width="40" height="40" fill="#FFF"/>
-  <rect x="40" y="0" width="40" height="40" fill="#CF142B"/>
-  <rect x="80" y="0" width="40" height="40" fill="#00247D"/>
-  <text x="115" y="25" font-family="Arial" font-size="14" fill="white" font-weight="bold" text-anchor="end">EN</text>
-</svg>](https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md)
-
-  &nbsp;
-  [SVG-English Button]
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none;">🇫🇷 French</a> | 
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md" style="text-decoration: none;">🇬🇧 English</a>
 </p>
-
-[<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
-  <!-- Button background -->
-  <rect width="140" height="40" rx="20" ry="20" fill="#F36F25"/>
-  
-  <!-- French flag -->
-  <rect x="0" y="0" width="40" height="40" fill="#0055A4"/>
-  <rect x="40" y="0" width="40" height="40" fill="#FFF"/>
-  <rect x="80" y="0" width="40" height="40" fill="#ED2939"/>
-  
-  <!-- Button text -->
-  <text x="115" y="25" font-family="Arial" font-size="14" fill="white" font-weight="bold" text-anchor="end">FR</text>
-</svg>](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
-
 # Abdullah Nezami  
 **Intern Developer | Computer Science Student (BUT Informatique) | University of Strasbourg**
 

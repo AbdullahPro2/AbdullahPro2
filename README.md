@@ -1,9 +1,17 @@
-<p align="right" style="display: inline-flex; align-items: center; gap: 5px;">
-  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30" style="vertical-align: middle;">
-  </a>
-    <span style="margin-left: 5px; font-weight: bold; color: black;">French Version</span>
-</p>
+<table align="right">
+  <tr>
+    <td>
+      <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md">
+        <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FR" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md" style="text-decoration: none; color: black; font-weight: bold;">
+        French Version
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # Abdullah Nezami  

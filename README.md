@@ -1,17 +1,20 @@
+<p align="right">
+  <a href="https://github.com/AbdullahPro2/AbdullahPro2/blob/main/README.md">🇫🇷 French Version </a>
+</p>
+
 # Abdullah Nezami  
-**Développeur Stagiaire | Étudiant en BUT Informatique | Université de Strasbourg**
+**Intern Developer | Computer Science Student (BUT Informatique) | University of Strasbourg**
 
 ---
 
-## Profil
+## Profile
 
-Étudiant en 2ème année de BUT Informatique à l’IUT Robert Schumann. Je cherche un stage de 10 semaines à partir du 15 avril 2025.  
-J’aime tout ce qui touche à la conception et la réalisation d’applications : web, mobile ou logicielle. Je m’intéresse aussi au développement bas niveau, à la programmation système et au langage assembleur.
+Second-year Computer Science student at IUT Robert Schumann. I’m looking for a 10-week internship starting from April 15, 2025.  
+I enjoy everything related to the design and development of applications — web, mobile, or software. I’m also interested in low-level development, system programming, and assembly language.
 
+## Technical Skills
 
-## Compétences Techniques
-
-### Langages de Programmation
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,19 +23,19 @@ J’aime tout ce qui touche à la conception et la réalisation d’applications
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Technologies Web
+### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Bases de Données
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%2303E76B.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Outils & Environnements
+### 🔧 Tools & Environments
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -51,15 +54,12 @@ J’aime tout ce qui touche à la conception et la réalisation d’applications
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/>
 </p>
 
-
-
 ---
-
 
 ## 📞 Contact
 - 💼 **LinkedIn:** [Abdullah Nezami](https://www.linkedin.com/in/abdulllahnezami/)
-- 📧 **Email:** [Écrivez-moi](mailto:abdullah.nezami@etu.unistra.fr)
-- 📍 **Localisation:** Strasbourg, France
+- 📧 **Email:** [Write to me](mailto:abdullah.nezami@etu.unistra.fr)
+- 📍 **Location:** Strasbourg, France
 ---
 
-⭐ *N'hésitez pas à explorer mes repositories et à me contacter pour toute opportunité !*
+*Feel free to explore my repositories and contact me for any opportunity!*

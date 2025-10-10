@@ -1,4 +1,4 @@
-# 🇫🇷 [![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md) 
+[![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=twemoji&logoColor=white&label=FR&logoWidth=20)](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
 # 🇬🇧 [![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md)
 
 

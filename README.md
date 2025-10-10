@@ -1,6 +1,5 @@
-[![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md)
-| <div align="right">[![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md)</div> |
-|---|
+🇫🇷 [![FR](https://img.shields.io/badge/lang-FR-red?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/master/README.md) 
+🇬🇧 [![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=github)](https://github.com/AbdullahPro2/AbdullahPro2/blob/english/README.md)
 
 
 

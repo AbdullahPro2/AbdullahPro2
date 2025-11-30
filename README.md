@@ -46,7 +46,6 @@
 
 ## GitHub Stats 
 <p align="center"> 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahNezami&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" /> 
 </p>
 <p align="center"> 

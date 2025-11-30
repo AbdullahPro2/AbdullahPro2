@@ -50,11 +50,6 @@ I enjoy everything related to the design and development of applications — web
   <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/>
-</p>
-
 ---
 
 ## Contact

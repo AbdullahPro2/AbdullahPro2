@@ -46,14 +46,13 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko&include_all_commits=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNezami&show_icons=true&theme=merko&include_all_commits=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AbdullahNezami&theme=merko" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNezami&layout=compact&theme=merko" height="150" />
 </p>
-
 
 
 ---

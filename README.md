@@ -46,7 +46,7 @@
 
 ## GitHub Stats 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahPro2&show_icons=true&theme=merko&include_all_commits=true" height="150" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahPro2&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" /> 
 </p>
 <p align="center"> 

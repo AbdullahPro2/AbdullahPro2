@@ -45,12 +45,8 @@
 ---
 
 ## GitHub Stats 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" /> 
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/> 
-</p>
+
+Github stats|[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=bear&hide_border=true&border_radius=0&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 
 ---

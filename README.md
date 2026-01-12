@@ -48,7 +48,7 @@
 
 | GitHub Stats | GitHub Streak |
 |-------------|---------------|
-| ![Stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=AbdullahPro2&hide_border=true&show_icons=true&theme=nord) | ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=material&hide_border=true) |
+| ![Stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=AbdullahPro2&hide_border=true&show_icons=true&theme=transparent) | ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=dracula&hide_border=true) |
 
 
 

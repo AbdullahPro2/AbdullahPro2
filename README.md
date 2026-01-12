@@ -45,12 +45,12 @@ I enjoy everything related to the design and development of applications — web
 ---
 
 ## GitHub Stats 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=AbdullahPro2&theme=merko" height="150" /> 
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPro2&layout=compact&theme=merko" height="150" alt="Langs"/> 
-</p>
+
+| GitHub Stats | GitHub Streak |
+|-------------|---------------|
+| ![Stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=AbdullahPro2&hide_border=true&show_icons=true&theme=ayu-mirage) | ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=ayu-mirage&hide_border=true) |
+
+
 
 ---
 

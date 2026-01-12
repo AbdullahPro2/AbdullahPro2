@@ -46,7 +46,8 @@
 
 ## GitHub Stats 
 
-Github stats|[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=bear&hide_border=true&border_radius=0&card_width=500&card_height=200)](https://git.io/streak-stats)
+|!Github stats|[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AbdullahPro2&theme=bear&hide_border=true&border_radius=0&card_width=500&card_height=200)](https://git.io/streak-stats)|
+|---|---|
 
 
 ---
